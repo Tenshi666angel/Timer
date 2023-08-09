@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.container {
+    text-align: center;
+}
+
+.container button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    border-color: whitesmoke;
+}
+
+.pause {
+    background-color: cyan;
+}
+
+.start {
+    background-color: blueviolet;
+}
+
+.stop {
+    background-color: orangered;
+}
+
+.continue {
+    background-color: greenyellow;
+}
