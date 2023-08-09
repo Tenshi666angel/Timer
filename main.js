@@ -2,6 +2,8 @@ const display = document.querySelector(".display h1");
 const startBtn = document.querySelector(".start");
 const stopBtn = document.querySelector(".stop");
 
+//check commit
+
 let interval = undefined;
 
 function setBtnType(btn, type) {
